@@ -11,7 +11,7 @@ body {
 }
 
 .bg-pic {
-    background: #000000 url(./assets/laptop-work.jpg) no-repeat;
+    background: #000000 url(./assets/laptop-work.png) no-repeat;
     background-size: cover;
     background-position: center -20px;
     width: 100%;
@@ -24,6 +24,7 @@ body {
     font-size: 13px;
     display: flex;
     flex-wrap: wrap;
+    background-color: rgb(0, 0, 0, 0.89);
 }
 
 .top-bar a {
