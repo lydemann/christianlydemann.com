@@ -1,5 +1,8 @@
 body {
     font-family: 'Montserrat';
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
 }
 
 .wrapper {
