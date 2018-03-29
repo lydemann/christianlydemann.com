@@ -11,7 +11,7 @@ body {
 }
 
 .bg-pic {
-    background: #000000 url(./assets/laptop-work.png) no-repeat;
+    background: #000000 url(./assets/laptop-work-small.png) no-repeat;
     background-size: cover;
     background-position: center center;
     width: 100%;
